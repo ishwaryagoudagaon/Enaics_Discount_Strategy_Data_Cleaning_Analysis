@@ -181,7 +181,7 @@ The presentation covers six main areas:
 3. **Order trends**
 4. **Category view**
 5. **Product view**
-6. **Recommendation** :contentReference[oaicite:12]{index=12}
+6. **Recommendation**
 
 ---
 # Technology
